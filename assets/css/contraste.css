@@ -30,6 +30,9 @@ body {
     color: white;
     background-color: black;
 }
+.banner__titulo {
+    background-color: var(--background-color-rodape);
+}
 .menu-superior{
     background-color: var(--background-color-rodape);
 }
