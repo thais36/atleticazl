@@ -21,7 +21,7 @@
     --formulario-botao:yellow;
     --formulario-botao-texto: black;
     --background-card-modalidade: white;
-    --background-color-rodape: #343334;
+    --background-color-rodape: #262526;
 }
 
 body {
@@ -29,6 +29,10 @@ body {
     font-size: 17px;
     color: white;
     background-color: black;
+}
+.menu-superior{
+    background-color: var(--background-color-rodape);
+
 }
 .rodape{
     background-color: var(--background-color-rodape);
